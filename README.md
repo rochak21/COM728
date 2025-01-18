@@ -1,2 +1,1 @@
-# COM728
-University work for COM 728 - Programming for problem solving by Rochak Adhikari
+# COM728-assignment
